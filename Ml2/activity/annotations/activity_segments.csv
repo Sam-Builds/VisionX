@@ -1,0 +1,10 @@
+video_name,start_seconds,end_seconds,label
+abhwalk,0.0,4.005,walking
+irswalk,0.0,5.468,walking
+jithwalk,0.0,3.468,walking
+abirun,0.0,4.135,running
+irsrun,0.0,3.202,running
+jitrun,0.0,2.868,running
+fight1,0.0,2.0,walking
+fight1,2.0,8.817,fighting
+voilance,0.0,6.233,violence
